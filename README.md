@@ -1,0 +1,1 @@
+[О неправильном понимании DRY](articles/DRY_misunderstanding.md)
