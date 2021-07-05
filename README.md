@@ -9,3 +9,5 @@
 [Примеры комментариев-"шедевров"](articles/comments_examples.md)
 
 [Переезд на новые технологии](articles/rewrite_code.md)
+
+[Онбоардинг разработчика на новом проекте](articles/onboarding.md)
