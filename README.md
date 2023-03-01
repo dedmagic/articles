@@ -11,3 +11,5 @@
 [Переезд на новые технологии](articles/rewrite_code.md)
 
 [Онбоардинг разработчика на новом проекте](articles/onboarding.md)
+
+[Мысли о разделении ответственностей фронта и бека](articles/frontend-and-backend-responsibility-areas.md)
